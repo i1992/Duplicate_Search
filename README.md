@@ -31,4 +31,4 @@
 
 ### Run
 
-	$ node duplicate-search.js
+    $ node duplicate-search.js
